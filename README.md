@@ -3,6 +3,7 @@
 >- 🔭 Trabalho com front-end
 >- 🌱 No momento estou aprofundando meus estudos no Javascript
 >- 📫 Entre em contato comigo pelo E-mail: brennob.983@gmail.com
+>- 🌐 Meu site portfólio: https://brenodev.vercel.app/
 
 <br>
 
